@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OU5AMA/bootstrap_sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OU5AMA/bootstrap_sass/issues"
+  },
+  "homepage": "https://github.com/OU5AMA/bootstrap_sass#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.49.7"
+  }
+}
